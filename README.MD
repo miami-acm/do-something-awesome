@@ -16,7 +16,7 @@ There are not too many strict rules on what this has to be, so feel free to do w
 * You will work in teams of 2-4. If you choose to go at it alone, that is fine, but you will have to work extra hard.
 * You should use at least 1 of the technologies that we have covered in the workshops. That means:
 	* Linux. Anything related to Linux. Just developing in a Linux command-line environment is fine, but this typically means you will be using a command-line editors such as Emacs and Vim. Note that developing in Mac does **NOT** count!
-	* Git. This will only count if you work on a team and you take advantage of branches in order to help with the collaboration
+	* Git. Use Git to manage your code individually or with your team. Branching and using Git on a team would be preferred, but not required. However, we *will* be expecting good commit logs (e.g. descriptive commit messages, commits in appropriate-sized chunks).
 	* Emacs. Not just use Emacs, however, as we could never actually verify this... This would essentially have to be a plugin
 	* Python. Simply doing your project in Python is good enough for this
 	* Django. Obviously uses Python, so kudos to you if you also use Django
