@@ -4,13 +4,22 @@ ACM is hosting a competition for engineering students to build something awesome
 You will have 4 weeks to build that something. 
 There are not too many strict rules on what this has to be, so feel free to do whatever interests you.
 
+The competition will end on Dec 3, 2014 at 7pm.
+
 ## The Prize
 * Raspberry Pi for each member of the team.
 * Your names will be put on a plaque to be displayed somewhere in Benton.
 
+## Signing Up
+Send an email to Kyle Rogers with your group members. 
+If you have a project idea already, include that as well. 
+Also, include if you plan on using any hardware for your project.
+
+
 ## The Rules
 
-* Must be software based. If there is a hardware component as well, that is ok, however, the bulk of the work must be software (we are the computer science group, after all). However, feel free to use an Arduino or Raspberry Pi. 
+* Must be software based. If there is a hardware component as well, that is ok, however, the bulk of the work must be software (we are the computer science group, after all). 
+So feel free to use an Arduino or Raspberry Pi. 
 	* Ex: Building a maze solving robot has a significant hardware component, however, the interesting component will be how you utilize graph search algorithms to find a path.
 * The source code must be hosted on GitHub
 * You will work in teams of 2-4. If you choose to go at it alone, that is fine, but you will have to work extra hard.
@@ -22,7 +31,7 @@ There are not too many strict rules on what this has to be, so feel free to do w
 	* Django. Obviously uses Python, so kudos to you if you also use Django
 	* HTML 5. Fairly self-explanatory
 	* If you don’t want to do any of these, that’s fine, but it better be *really* awesome…
-* You may **NOT** submit anything that you are building/have built for another class
+* The project must have been built for this competition. You may not submit anything that you are building/have built for another class or another organization
 	
 ## Turning It In
 The competition will end on December 3, 2014 at the start of the ACM meeting. 
