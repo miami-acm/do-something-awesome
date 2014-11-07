@@ -45,3 +45,8 @@ Judges will be a combination of professors and students.
 
 You will be judged according to how awesome your project is with respect to your skill level. 
 ie a freshman with only 174 experience should not be a significant disadvantage to a senior. 
+
+## Help
+Kyle Rogers will be available to help with any problems that you may have about your project. 
+Both with developing an idea as well as bugs you may encounter while building. 
+Send an email or come to the weekly ACM meeting to discuss any problems you may be having.
