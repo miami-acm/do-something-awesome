@@ -31,7 +31,8 @@ So feel free to use an Arduino or Raspberry Pi.
 	* Django. Obviously uses Python, so kudos to you if you also use Django
 	* HTML 5. Fairly self-explanatory
 	* If you don’t want to do any of these, that’s fine, but it better be *really* awesome…
-* The project must have been built for this competition. You may not submit anything that you are building/have built for another class or another organization
+* The project must have been built for this competition. 
+You may not submit anything that you are building/have built for another class or another organization, **UNLESS** you have gone significantly above and the requirements for the class and you have the permission of the instructor.
 	
 ## Turning It In
 The competition will end on December 3, 2014 at the start of the ACM meeting. 
