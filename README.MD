@@ -27,6 +27,7 @@ So feel free to use an Arduino or Raspberry Pi.
 	* Linux. Anything related to Linux. Just developing in a Linux command-line environment is fine, but this typically means you will be using a command-line editors such as Emacs and Vim. Note that developing in Mac does **NOT** count!
 	* Git. Use Git to manage your code individually or with your team. Branching and using Git on a team would be preferred, but not required. However, we *will* be expecting good commit logs (e.g. descriptive commit messages, commits in appropriate-sized chunks).
 	* Emacs. Not just use Emacs, however, as we could never actually verify this... This would essentially have to be a plugin
+	An argument could be made for doing the equivalent in Vim.. 
 	* Python. Simply doing your project in Python is good enough for this
 	* Django. Obviously uses Python, so kudos to you if you also use Django
 	* HTML 5. Fairly self-explanatory
