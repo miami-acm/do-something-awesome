@@ -27,11 +27,13 @@ So feel free to use an Arduino or Raspberry Pi.
 	* Linux. Anything related to Linux. Just developing in a Linux command-line environment is fine, but this typically means you will be using a command-line editors such as Emacs and Vim. Note that developing in Mac does **NOT** count!
 	* Git. Use Git to manage your code individually or with your team. Branching and using Git on a team would be preferred, but not required. However, we *will* be expecting good commit logs (e.g. descriptive commit messages, commits in appropriate-sized chunks).
 	* Emacs. Not just use Emacs, however, as we could never actually verify this... This would essentially have to be a plugin
+	An argument could be made for doing the equivalent in Vim.. 
 	* Python. Simply doing your project in Python is good enough for this
 	* Django. Obviously uses Python, so kudos to you if you also use Django
 	* HTML 5. Fairly self-explanatory
 	* If you don’t want to do any of these, that’s fine, but it better be *really* awesome…
-* The project must have been built for this competition. You may not submit anything that you are building/have built for another class or another organization
+* The project must have been built for this competition. 
+You may not submit anything that you are building/have built for another class or another organization, **UNLESS** you have gone significantly above and the requirements for the class and you have the permission of the instructor.
 	
 ## Turning It In
 The competition will end on December 3, 2014 at the start of the ACM meeting. 
@@ -45,3 +47,8 @@ Judges will be a combination of professors and students.
 
 You will be judged according to how awesome your project is with respect to your skill level. 
 ie a freshman with only 174 experience should not be a significant disadvantage to a senior. 
+
+## Help
+Kyle Rogers will be available to help with any problems that you may have about your project. 
+Both with developing an idea as well as bugs you may encounter while building. 
+Send an email or come to the weekly ACM meeting to discuss any problems you may be having.
