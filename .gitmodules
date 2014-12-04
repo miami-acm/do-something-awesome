@@ -1,0 +1,9 @@
+[submodule "submissions_fall2014/historian"]
+	path = submissions_fall2014/historian
+	url = https://github.com/natemara/historian.git
+[submodule "submissions_fall2014/Engel.js"]
+	path = submissions_fall2014/Engel.js
+	url = https://github.com/AmatsuMarine/Engel.js.git
+[submodule "submissions_fall2014/ACMProject"]
+	path = submissions_fall2014/ACMProject
+	url = https://github.com/epan2so/ACMProject.git
